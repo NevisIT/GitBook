@@ -10,3 +10,7 @@
 
 * [Проблемы с маркировкой](instrukcii-po-markirovke/untitled-1.md)
 
+---
+
+* [Доставка](dostavka.md)
+
