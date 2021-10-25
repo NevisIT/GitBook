@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Установка Telegram на мобильные устройства](README.md)
-
 ## Инструкции бот
 
-* [1. Не работает интернет/телефон](instrukcii-bot/1.-ne-rabotaet-internet-telefon.md)
+* [1. Не работает интернет/телефон](README.md)
 * [2. Не работает оборудование (принтер и т.д)](instrukcii-bot/2.-ne-rabotaet-oborudovanie-printer-i-t.d.md)
 * [3. Проблема с открытием/закрытием смены](instrukcii-bot/3.-problema-s-otkrytiem-zakrytiem-smeny.md)
 * [4. Не открывается 1С (возможные окна и пути решения)](instrukcii-bot/4.-ne-otkryvaetsya-1s-vozmozhnye-okna-i-puti-resheniya.md)
