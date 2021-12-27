@@ -17,6 +17,7 @@
 * [5. Обновление конфигурации 1С](instrukcii-bot/5.-obnovlenie-konfiguracii-1s.md)
 * [6. Возможные проблемы с кассой и решения](instrukcii-bot/6.-vozmozhnye-problemy-s-kassoi-i-resheniya.md)
 * [7. Проблема с отображением Портала/Сайта](instrukcii-bot/7.-problema-s-otobrazheniem-portala-saita.md)
+* [Здравсити.ру обращение в техподдержку](instrukcii-bot/zdravsiti.ru-obrashenie-v-tekhpodderzhku.md)
 
 ## Инструкции по маркировке
 
@@ -25,7 +26,3 @@
 ***
 
 * [Доставка](dostavka.md)
-
-## Полная Инструкция по 1С
-
-* [Page 1](polnaya-instrukciya-po-1s/page-1.md)
