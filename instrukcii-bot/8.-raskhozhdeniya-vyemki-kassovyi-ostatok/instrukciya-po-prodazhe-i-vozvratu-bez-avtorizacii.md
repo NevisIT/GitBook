@@ -1,4 +1,4 @@
-# 3.2 Продажа/возврат без авторизации
+# Инструкция по продаже и возврату без авторизации
 
 **1. Пробитие чека без авторизации**
 
@@ -8,7 +8,7 @@
 
 1. Набираем товары в чек (если нужно делаем скидку).
 
-![C:\Users\Nikolai\Pictures\Screenshot\_144.png](<../../.gitbook/assets/0 (2)>)
+![C:\Users\Nikolai\Pictures\Screenshot\_144.png](<../../.gitbook/assets/0 (3)>)
 
 Сверяем сумму чека должна совпадать.
 
@@ -17,23 +17,23 @@
 3. Открываем 1С под пользователем «Заведующая» (на этой же кассе, на которой отложили чек).
 4. Заходим во вкладку ПРОДАЖИ-ЧЕК ККМ и находим наш отложенный чек. (Статус у этого чека Отложенный).
 
-![C:\Users\Nikolai\Pictures\Screenshot\_153.png](<../../.gitbook/assets/1 (1)>)
+![C:\Users\Nikolai\Pictures\Screenshot\_153.png](<../../.gitbook/assets/1 (3)>)
 
 1. Открываем наш чек заходим во вкладку оплата.
 
-![C:\Users\Nikolai\Pictures\Screenshot\_152.png](<../../.gitbook/assets/2 (2)>)
+![C:\Users\Nikolai\Pictures\Screenshot\_152.png](../../.gitbook/assets/2)
 
 1. Нажимаем Добавить-Платежная карта.
 
-![C:\Users\Nikolai\Pictures\Screenshot\_154.png](<../../.gitbook/assets/3 (1)>)
+![C:\Users\Nikolai\Pictures\Screenshot\_154.png](../../.gitbook/assets/3)
 
 1. Сверяем сумму и нажимаем кнопку провести (смотрите рисунок) после проведения документа станет активна кнопка (Пробить чек).
 
-![C:\Users\Nikolai\Pictures\Screenshot\_155.png](../../.gitbook/assets/4)
+![C:\Users\Nikolai\Pictures\Screenshot\_155.png](<../../.gitbook/assets/4 (2)>)
 
 1. После того как провели документ нажимаем кнопку (Пробить чек).
 
-![C:\Users\Nikolai\Pictures\Screenshot\_156.png](<../../.gitbook/assets/5 (1)>)
+![C:\Users\Nikolai\Pictures\Screenshot\_156.png](<../../.gitbook/assets/5 (3)>)
 
 Распечатается чек, пробитый по карте (без авторизации). Пишем служебную записку бухгалтеру о проделанной работе. За этот день у вас сумма в Z отчете будет больше на сумму этого чека, чем в отчете по банку.
 
@@ -47,31 +47,33 @@
 
 (запоминаем № чека ККМ и дату, какой будем возвращать)
 
-![C:\Users\Nikolai\Pictures\Screenshot\_187.png](<../../.gitbook/assets/6 (1) (1) (1)>)
+![C:\Users\Nikolai\Pictures\Screenshot\_187.png](<../../.gitbook/assets/6 (1)>)
 
 1. На кассе Нажимаем Возврат(F5).
 
-![C:\Users\Nikolai\Pictures\Screenshot\_190.png](<../../.gitbook/assets/7 (1) (1) (1)>)
+![C:\Users\Nikolai\Pictures\Screenshot\_190.png](<../../.gitbook/assets/7 (1)>)
 
 1. Вбиваем дату и номер чека и нажимаем кнопку ENTER, появится возвращаемый чек. Нажимаем кнопку в виде треугольника (смотрите картинку).
 
-![C:\Users\Nikolai\Pictures\Screenshot\_192.png](<../../.gitbook/assets/8 (1) (1) (1)>)
+![C:\Users\Nikolai\Pictures\Screenshot\_192.png](../../.gitbook/assets/8)
 
 1. Выбираем надпись Возврат и нажимаем опять кнопку в виде треугольника (смотрите картинку). У Вас сформируется возвратный чек.
 
-![C:\Users\Nikolai\Pictures\Screenshot\_193.png](<../../.gitbook/assets/9 (1) (1) (1)>)
+![C:\Users\Nikolai\Pictures\Screenshot\_193.png](<../../.gitbook/assets/9 (1)>)
 
 1. Откладываем чек клавишами (Alt+F5) или через Меню(F12) внизу нажимаем кнопку (Отложить текущ. чек(Alt+F5)).
 
-![C:\Users\Nikolai\Pictures\Screenshot\_194.png](../../.gitbook/assets/10)
+![C:\Users\Nikolai\Pictures\Screenshot\_194.png](<../../.gitbook/assets/10 (1)>)
 
 1. Закрываем 1С.
 2. Открываем 1С под пользователем «Заведующая» (на этой же кассе, на которой сформировали возвратный чек).
 
-Заходим во вкладку ПРОДАЖИ-ЧЕК ККМ и находим наш возвратный чек. (Статус у этого чека Возвратный). ![C:\Users\Nikolai\Pictures\Screenshot\_195.png](<../../.gitbook/assets/11 (1)>)
+Заходим во вкладку ПРОДАЖИ-ЧЕК ККМ и находим наш возвратный чек. (Статус у этого чека Возвратный). ![C:\Users\Nikolai\Pictures\Screenshot\_195.png](../../.gitbook/assets/11)
 
 1. Открываем наш чек, сверяем сумму и нажимаем кнопку Провести. (смотрите рисунок) после проведения документа станет активна кнопка (Пробить чек). Нужно нажать на кнопку «Пробить чек».
 
-![C:\Users\Nikolai\Pictures\Screenshot\_198.png](<../../.gitbook/assets/12 (1)>)
+![C:\Users\Nikolai\Pictures\Screenshot\_198.png](../../.gitbook/assets/12)
 
 Распечатается Возвратный чек, по карте (без авторизации). Пишем служебную записку бухгалтеру о проделанной работе.
+
+С уважением, отдел информационных технологий.

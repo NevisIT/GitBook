@@ -17,6 +17,8 @@
 * [5. Обновление конфигурации 1С](instrukcii-bot/5.-obnovlenie-konfiguracii-1s.md)
 * [6. Возможные проблемы с кассой и решения](instrukcii-bot/6.-vozmozhnye-problemy-s-kassoi-i-resheniya.md)
 * [7. Проблема с отображением Портала/Сайта](instrukcii-bot/7.-problema-s-otobrazheniem-portala-saita.md)
+* [8. Расхождения / выемки / кассовый остаток](instrukcii-bot/8.-raskhozhdeniya-vyemki-kassovyi-ostatok/README.md)
+  * [Инструкция по продаже и возврату без авторизации](instrukcii-bot/8.-raskhozhdeniya-vyemki-kassovyi-ostatok/instrukciya-po-prodazhe-i-vozvratu-bez-avtorizacii.md)
 * [Здравсити.ру обращение в техподдержку](instrukcii-bot/zdravsiti.ru-obrashenie-v-tekhpodderzhku.md)
 
 ## Инструкции по маркировке
