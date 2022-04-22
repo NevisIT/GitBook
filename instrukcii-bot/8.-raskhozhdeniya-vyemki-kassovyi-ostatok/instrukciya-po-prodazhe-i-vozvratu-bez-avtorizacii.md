@@ -47,7 +47,7 @@
 
 (запоминаем № чека ККМ и дату, какой будем возвращать)
 
-![C:\Users\Nikolai\Pictures\Screenshot\_187.png](<../../.gitbook/assets/6 (1)>)
+![C:\Users\Nikolai\Pictures\Screenshot\_187.png](<../../.gitbook/assets/6 (1) (1)>)
 
 1. На кассе Нажимаем Возврат(F5).
 
